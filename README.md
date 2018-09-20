@@ -1,7 +1,7 @@
 # monlam
 Modeling as Service
--Connect:Accounting
--Session:Context->DiagramsList
+-Connect:Accounting 
+-[Verb]:Session o-- Context -> DiagramsList
 -Search
--Notification
+-Notify
 -Empty
