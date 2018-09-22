@@ -18,5 +18,5 @@ Parameters:
 
 Example: 
 GetElementsByQuery('Simple','TextToFind'), 
-where the results list elements with 'TextToFind' in the 'Name' and 'Notes' fields.
+where the results list elements are with 'TextToFind' in the 'Name' and 'Notes' fields.
 
