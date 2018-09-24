@@ -1,10 +1,13 @@
 # monlam
 Modeling as Service
-#Connect:Accounting, AuthorizationMethods 
+# Connect:Accounting, AuthorizationMethods 
 -[Verb]:Session o-- Context -> DiagramsList
 -Search:Repository.GetElementsByQuery
 -Notify
 -Empty
+
+Connect
+ Use Sparx as Example
 
 Search delegatesTo
 Repository.GetElementsByQuery
