@@ -26,3 +26,5 @@ Example:
 GetElementsByQuery('Simple','TextToFind'), 
 where the results list elements are with 'TextToFind' in the 'Name' and 'Notes' fields.
 
+# Notify
+Water
