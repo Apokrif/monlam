@@ -1,5 +1,5 @@
 # monlam
-Modeling as Service
+Modeling as Service as Λειτουργία
 # Connect
 :Accounting, AuthorizationMethods 
 # Context -[Verb]:Session o-- Context -> DiagramsList 
